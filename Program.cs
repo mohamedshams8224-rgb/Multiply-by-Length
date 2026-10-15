@@ -7,7 +7,7 @@ namespace Multiply_by_Length
     {
         static void Main(string[] args)
         {
-            int counter = 1;
+            
             List<int> input = new List<int>();
             bool check = true;
 
